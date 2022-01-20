@@ -1,0 +1,23 @@
+[
+    {
+        "make": "porch",
+        "model": 911,
+        "color": "yellow",
+        "condition": "new",
+        "year": 2022
+    },
+    {
+        "make": "ferrari",
+        "model": "california",
+        "color": "black",
+        "condition": "new",
+        "year": 2022
+    },
+    {
+        "Make": "mercedes",
+        "model": "E350",
+        "color": "white",
+        "condition": "used",
+        "year": 2011
+    }
+]
